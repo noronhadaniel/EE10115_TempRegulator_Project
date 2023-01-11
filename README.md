@@ -9,6 +9,7 @@
    - Thermistor (temperature sensor) 
    - Potentiometer
    - Push Button
+
    Actuators: 
    - 120mm 4-pin PWM RGB Fan (12V DC motor) 
    - 16x2 LCD
