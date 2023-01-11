@@ -4,6 +4,7 @@
    the speed of a DC fan accordingly. 
    It has two modes: Manual (user sets fan speed) 
    and Automatic (user sets desired temperature).
+   
    Sensors:
    - Thermistor (temperature sensor) 
    - Potentiometer
