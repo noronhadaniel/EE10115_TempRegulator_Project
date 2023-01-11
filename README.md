@@ -5,7 +5,7 @@
    It has two modes: Manual (user sets fan speed) 
    and Automatic (user sets desired temperature).
    
-   Microcontroller board: Arduino Uno
+   Microcontroller Board: Arduino Uno
    
    Sensors:
    - Thermistor (temperature sensor) 
